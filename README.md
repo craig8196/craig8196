@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @craig8196
+- 👀 I’m interested in microservices, functional programming, experimental tools, and many other areas of programming.
+- 🌱 I’m currently learning about microservices and TypeScript.
+- 💞️ I’m would like to collaborate on micro-kernel operating systems with next-gen designs; yep, my interests are that varied and I would like to get into operating systems programming for kicks.
+- 📫 How to reach me... TBD  ;)
